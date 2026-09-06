@@ -13,8 +13,9 @@ I am a **growing software developer** currently focused on building software tha
 - Learning advanced architectural and engineering patterns  
 
 ## GitHub Activity🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisfortune01&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
+<p align="center">
+  <img src="[https://streak-stats.demolab.com/?user=chrisfortune01&theme=radical&hide_border=true]" alt="GitHub Streak" />  
+</p>
 
 ## ⏱ Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -39,3 +40,7 @@ Markdown           19 mins         █░░░░░░░░░░░░░░
 ## Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/chrisezego/  
 - **Email:** chrisfortune01@gmail.com
+
+<p align="center">
+  **© Chris Fortune**
+</p>
