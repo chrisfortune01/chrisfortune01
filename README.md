@@ -14,7 +14,7 @@ I am a **growing software developer** currently focused on building software tha
 
 ## GitHub Activity🔥
 <p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=chrisfortune01&theme=radical&hide_border=true]" alt="GitHub Streak" />  
+  <img src="https://streak-stats.demolab.com/?user=chrisfortune01&theme=radical&hide_border=true" alt="GitHub Streak" />  
 </p>
 
 ## ⏱ Weekly Development Breakdown
