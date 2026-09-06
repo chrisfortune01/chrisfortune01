@@ -42,5 +42,5 @@ Markdown           19 mins         █░░░░░░░░░░░░░░
 - **Email:** chrisfortune01@gmail.com
 
 <p align="center">
-  **© Chris Fortune**
+ © Chris Fortune  
 </p>
