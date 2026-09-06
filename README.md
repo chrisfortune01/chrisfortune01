@@ -1,9 +1,9 @@
 ## About Me
-I am a **growing software developer** currently focused on building software that is scalable, efficient, maintainable, and built to solve real-world problems. I enjoy working through complex challenges, designing thoughtful solutions, and continuously improving both the systems I build and the way I build them.
+I am a **growing software developer** currently focused on building software that is scalable, efficient, maintainable, and built to solve real-world problems. I enjoy working through complex challenges, designing thoughtful solutions, and continuously improving both the systems I build and the way I build them.  
 
 ## Technologies & Tools
-**Languages:** JavaScript, Python
-**Databases:** MySQL, PostgreSQL
+**Languages:** JavaScript, Python  
+**Databases:** MySQL, PostgreSQL  
 **Other:** REST APIs, System Design, Software Architecture    
 
 ## Current Focus
@@ -13,7 +13,7 @@ I am a **growing software developer** currently focused on building software tha
 - Learning advanced architectural and engineering patterns  
 
 ## GitHub Activity🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisfortune01&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chrisfortune01&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 
 
 ## ⏱ Weekly Development Breakdown
