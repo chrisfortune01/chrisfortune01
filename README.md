@@ -38,7 +38,7 @@ Markdown           19 mins         █░░░░░░░░░░░░░░
 - Open-source collaboration  
 
 ## Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/chrisezego/  
+- **LinkedIn:** https://www.linkedin.com/in/chrisezego  
 - **Email:** chrisfortune01@gmail.com
 
 <p align="center">
