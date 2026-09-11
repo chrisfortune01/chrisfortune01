@@ -16,6 +16,7 @@ I am a **growing software developer** currently focused on building software tha
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=chrisfortune01&theme=radical&hide_border=true" alt="GitHub Streak" />  
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chrisfortune01)](https://git.io/streak-stats)  
 
 ## ⏱ Weekly Development Breakdown
 <!--START_SECTION:waka-->
