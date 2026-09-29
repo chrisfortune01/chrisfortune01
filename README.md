@@ -14,7 +14,7 @@ I am a **growing software developer** currently focused on building software tha
 
 ## GitHub Stats🔥
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>   
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chrisfortune01&theme=radical&hide_border=true&border_radius=5&timezone=GMT&date_format=M%20j%5B%2C%20Y%5D&type=png" alt="GitHub Streak" /></a>   
 </p>
 
 
