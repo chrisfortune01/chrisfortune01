@@ -1,3 +1,5 @@
+# Hi, The name is Chris!
+
 ## About Me
 I am a **growing software developer** currently focused on building software that is scalable, efficient, maintainable, and built to solve real-world problems. I enjoy working through complex challenges, designing thoughtful solutions, and continuously improving both the systems I build and the way I build them.  
 
@@ -39,7 +41,7 @@ Markdown           19 mins         █░░░░░░░░░░░░░░
 - Open-source collaboration  
 
 ## Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/chrisezego  
+- **LinkedIn:** https://www.linkedin.com/in/chrisezego/  
 - **Email:** chrisfortune01@gmail.com
 
 <p align="center">
